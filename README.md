@@ -1,2 +1,7 @@
-# Predicting Titanic survivors
-In this project, I have explored the Titanic dataset in Python with different visualizations. After exploring and manipulating the dataset, models were built using different maching learning algorithms on the test dataset to predict who survived in the tragedy. Random forest model that gives the best accuracy (86.64%) was applied on the test dataset. Variable importance impacting the model were obtained. Test acccuracy was close to 80% or lower depending on the run which is somewhat lower than training accuracy (reasonable).  
+# Titanic Survivor Analysis and Prediction
+
+## Dataset
+This is th first dataset I explored on Kaggle platform. Dataset is available here:
+https://www.kaggle.com/c/titanic/data
+
+Survived column indicates if the passenger survived (1) or not (0). Dataset has several categorical as well as continuous numerical columns as input variable. 
